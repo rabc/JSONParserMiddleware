@@ -23,7 +23,6 @@
 // SOFTWARE.
 
 import HTTP
-import HTTPMiddleware
 import JSON
 
 public struct JSONParserMiddleware: RequestMiddlewareType {
